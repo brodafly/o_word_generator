@@ -1,9 +1,7 @@
 #include <iostream>
-#include <string>
-#include <vector>
-#include <fstream>
-#include <locale>
-#include "OGenerator.cpp"
+#include "Generator.h"
+#include "Generator.cpp"
+#include "PureTrie.h"
 #include "PureTrie.cpp"
 
 int main()
