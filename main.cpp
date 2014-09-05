@@ -1,8 +1,6 @@
 #include <iostream>
 #include "Generator.h"
-#include "Generator.cpp"
 #include "PureTrie.h"
-#include "PureTrie.cpp"
 
 int main()
 {	

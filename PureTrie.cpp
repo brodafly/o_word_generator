@@ -1,3 +1,4 @@
+#include "PureTrie.h"
 Node* Node::findChild(char c)
 {
     for ( int i = 0; i < mChildren.size(); i++ )
