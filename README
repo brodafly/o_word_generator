@@ -1,0 +1,7 @@
+A bulgarian word generator written (haphazardly) in C++.
+
+How it works: Given a 4x4 board of bulgarian letters it will generate all possible valid words genrated by connecting adjacent letter blocks. Uses a premade dictionary file containing the valid words. 
+
+Once you start the executable it will take a few seconds to load up and (currently without any prompt) you will have to enter 16 letters seperated by space or newline characters representing the desired 4x4 arrangement you desire.
+
+How to build: Use `make` and `make clean`.
